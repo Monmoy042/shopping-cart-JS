@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  flex-direction: row;
+}
+.product-list {
+  width: 50%;
+  margin: 10px;
+  padding: 5px;
+  margin-bottom: 5px;
+}
+#products {
+  margin: 5px;
+  border-radius: 5px;
+  padding: 15px;
+}
+#products h4 {
+  color: rgb(7, 7, 125);
+}
+#products h5 {
+  color: indianred;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+.shopping-cart {
+  width: 40%;
+  margin: 10px;
+  padding: 5px;
+  border: 2px solid gold;
+}
